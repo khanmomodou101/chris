@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "cd astro && yarn run build",
+        "postinstall": "cd astro && yarn install"
+    }
+}

@@ -5,3 +5,6 @@
 tags
 chris/docs/current
 node_modules/
+chris/www/*
+astro/.astro/*
+chris/public/assets
